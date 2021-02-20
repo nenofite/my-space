@@ -13,7 +13,8 @@ const tmpl = module.exports = {
   ${data.date ? `<meta name="date" content="${new Date(data.date).toString()}">` : ''}
   ${data.tags ? `<meta name="keywords" content="${data.tags.join()}">` : ''}
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.7.2/tufte.min.css" integrity="sha512-cG7Z4degp9718dDjGjeJmar0+g7RtE/olDe0VRKEFDtOEkm91JSvE7ZxN2+sijkU0AAK3e2xzu7bafBGC/uiqA==" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./theme/styles.css">
 </head>
 <body>
