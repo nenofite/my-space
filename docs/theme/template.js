@@ -53,7 +53,7 @@ const tmpl = module.exports = {
 <article>
   ${data.content}
   <ul>
-  ${data.articles.sort((a, b) => a.date < b.date ? 1 : -1)  // sort decending ..
+  ${data.articles.sort((a, b) => a.title < b.title ? -1 : 1)
         .map(tmpl.articleEntry).join('')}
   </ul>
 </article>
