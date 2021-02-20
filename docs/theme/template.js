@@ -17,6 +17,9 @@ const tmpl = module.exports = {
   <link rel="stylesheet" href="./theme/styles.css">
 </head>
 <body>
+  <header>
+    <a href="./index.html">Home</a>
+  </header>
   <main>
   ${data.content}
   </main>
