@@ -20,8 +20,8 @@ in better words already.
 
 First, break the project down into features, capabilities, and tickets. Use
 your scope inflation of choice<side-note name="mn-est-form">for this project
-I used `x 2 + 25%`</side-note> to get your total time estimate. (The estimate
-may seem too high; that means you're doing it right.)
+I used `Points * 2.25`</side-note> to get your total time estimate. If the
+estimate seems too high, you're doing it right.
 
 Now translate your time estimate into a ship date. Don't forget about
 holidays, run weeks, etc. Make a Gantt chart or similar that includes these
@@ -61,8 +61,7 @@ A ticket that you scoped for two days ends up taking two weeks.
 
 You tell your manager confidently that the project will be done and polished
 in a month, in fact it's laughable to imagine it taking any longer than that.
-Two months later, the project isn't even shippable yet. (These both happened
-in this project.)
+Two months later, the project isn't even shippable yet.
 
 No matter how thorough your technical plans are, your project will hit scope
 explosions.
@@ -94,13 +93,13 @@ This involved creating an adapter to keep the new and old data models in
 sync.
 
 Once the project is decomposed, publicly prioritize the features so you know
-which ones to cut first. Get your stakeholders/team to commit to this
-prioritization, so you won't feel guilty when a low-priority feature is cut.
-
-Prioritization: Each feature gets a rank P0, P1, P2, etc. The set of P0
+which ones to cut first.<side-note name="mn-prioritization">
+An example prioritization system: Each feature gets a rank P0, P1, P2, etc. The set of P0
 features describes the minimum viable product, ie. something that sucks to
 use but gets the job done. Then P1, P2, etc. will describe levels of polish
-and additional functionality.
+and additional functionality.</side-note>
+Get your stakeholders/team to commit to this
+prioritization, so you won't feel guilty when a low-priority feature is cut.
 
 Now sequence your work so there's a milestone every 1-2 sprints. Each
 milestone is the completion of one of these shippable feature sets, plus a
