@@ -6,7 +6,7 @@
 <section>
 
 🏡 <span class="newthought">Hello,</span> and welcome to my space. Herein
-<strike>is</strike> will be a random collection of half-baked ideas. Maybe
+~~is~~ will be a random collection of half-baked ideas. Maybe
 someday I'll rewrite this to sound smart and accomplished.
 
 Anyways, thanks for visiting! Hope you like it.

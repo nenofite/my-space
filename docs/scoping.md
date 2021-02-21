@@ -141,5 +141,3 @@ You wrap the project up with a bow, do a retrospective, and move on to the
 next thing.
 
 </section>
-
-<script src="./script/MarginNote.js"></script>

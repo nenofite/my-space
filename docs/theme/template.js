@@ -24,6 +24,8 @@ const tmpl = module.exports = {
   <main>
   ${data.content}
   </main>
+
+  <script src="./script/MarginNote.js"></script>
 </body>
 </html>
     `;
