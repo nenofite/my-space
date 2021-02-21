@@ -7,7 +7,7 @@
 # Quickie RPG
 
 <p class="subtitle">
-A quick and simple tabletop system for one-off games.
+A quick and simple tabletop system for one-off games
 </p>
 
 <section>
@@ -18,18 +18,24 @@ which would last the next three months. I missed that first meeting, so I
 started a table of "leftovers" like me who couldn't commit to a recurring
 weekly game.
 
-I threw together this system, which allows quick character creation and
-encourages character death or retirement by the end of the session. We called
-it "Zero Commitment RPG."
+Given the non-committal nature of our group, I didn't want to waste time
+getting the players up to speed on a large tome of rules. I had previously
+been inspired by the simplicity of Fabletop,<side-note
+name="mn-fabletop">Fabletop http://fabletop.com/help/introduction</side-note> an
+online-only RPG. So I tinkered with the rules to favor in-person play and
+switched to six-sided dice since I had a bunch of them available.
+
+This system is the result. It's a short read, allows quick character
+creation, and encourages character death or retirement by the end of the
+session. We called it "Zero Commitment RPG."
 
 </section>
 <section>
 
-## Making a Character
+## Making a character
 
 Start the character with a name and a two- or three-sentence description,
-which should focus on their personality, background story, and
-motivations/life goals.
+which should focus on their personality, background story, and goals.
 
 Each character has three basic traits and two bonus traits.
 
@@ -44,21 +50,17 @@ such as Archer, Ninja, Smooth Talker, Terrifying, etc. Each bonus trait
 counts as one point. If you'd like to play a specific class, use it as one of
 your traits.
 
-Starting **Health** is (Might + 1). When health reaches 0, the character
-falls unconscious. Further damage reduces the character's Might, which can be
-tracked as **Wounds**. When (Might - Wounds) reaches 0, the character is
-dead. (See rest & recovery.)
+Starting **Health** is (Might + 1). When health reaches 0, the character is
+dead.
 
-Each character starts with (Mind + 1) **Power Points**. Throughout play these
-will be used up, so write them where they can be crossed off. They are
-restored at the start of each scene.
-
-At level 1, characters have no skills yet.
+Each character starts with (Mind + 1) expendable **Power Points**. Throughout
+play these will be used up, so write them where they can be crossed off. They
+are restored at the start of each scene.
 
 </section>
 <section>
 
-## Performing Actions
+## Performing actions
 
 When a character attempts an action, they roll multiple dice (or the same die
 multiple times). The number of dice to roll is the points of whichever base
@@ -90,13 +92,13 @@ oneself and losing HP, getting a negative perk for the rest of the scene.
 </section>
 <section>
 
-## Power Points & Magic
+## Power Points & magic
 
 Power Points can be added to a roll to provide a guaranteed star. The
 player must declare they are using a Power Point before they roll the dice.
 
-Once used, a Power Point is crossed off the character sheet. It cannot be
-regained—but don’t fret, the character won’t be around very long anyways!
+Once used, a Power Point is crossed off the character sheet. It can be
+regained through rest; see below.
 
 Additionally, Power Points are used when magic-wielding characters perform
 their arcane craft. When the mage performs their spell for the first time,
@@ -115,7 +117,7 @@ and eat for a couple hours, Health and Power Points are fully restored.
 </section>
 <section>
 
-## Making the Story
+## Making the story
 
 The GM should actively seek ways to include players in the creation of the
 story. This generally involves dividing players up, either into sub-groups or
@@ -140,7 +142,7 @@ the character’s story.
 </section>
 <section>
 
-## When the End is Nigh
+## When the end is nigh
 
 As the session draws to a close, it’s time for characters to start dying. Or
 retiring, disappearing into the woods, getting lost at sea, being sucked into
