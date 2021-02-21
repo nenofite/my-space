@@ -1,10 +1,10 @@
 ---
 "layout": "article",
-"title": "Quickie RPG",
+"title": "Zero Commitment RPG",
 "date": "2021-02-20"
 ---
 
-# Quickie RPG
+# Zero Commitment RPG
 
 <p class="subtitle">
 A quick and simple tabletop system for one-off games
@@ -12,7 +12,8 @@ A quick and simple tabletop system for one-off games
 
 <section>
 
-When I was in college I was briefly part of a tabletop gaming club. At the
+When I was in college I was briefly part of a tabletop<side-note name="mn-tabletop">
+as in, [tabletop role-playing game][rpg] or RPG</side-note> club. At the
 first meeting of each academic quarter, the club split into gaming tables
 which would last the next three months. I missed that first meeting, so I
 started a table of "leftovers" like me who couldn't commit to a recurring
@@ -20,14 +21,15 @@ weekly game.
 
 Given the non-committal nature of our group, I didn't want to waste time
 getting the players up to speed on a large tome of rules. I had previously
-been inspired by the simplicity of Fabletop,<side-note
-name="mn-fabletop">Fabletop http://fabletop.com/help/introduction</side-note> an
+been inspired by the simplicity of Fabletop,<side-note name="mn-fabletop">Fabletop [http://fabletop.com/help/introduction](http://fabletop.com/help/introduction)</side-note> an
 online-only RPG. So I tinkered with the rules to favor in-person play and
 switched to six-sided dice since I had a bunch of them available.
 
 This system is the result. It's a short read, allows quick character
 creation, and encourages character death or retirement by the end of the
-session. We called it "Zero Commitment RPG."
+session. We called our group the "Zero Commitment RPG," so I kept the name.
+
+[rpg]: https://en.wikipedia.org/wiki/Tabletop_role-playing_game
 
 </section>
 <section>
